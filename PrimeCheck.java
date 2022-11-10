@@ -8,5 +8,7 @@ public class PrimeCheck{
 
         int inp = sc.nextInt();
 
+        System.out.println(inp);
+
     }
 }
